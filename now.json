@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "api-standalone",
+  "env": {
+    "MONGODB_URI": "@sta_minicurso_mongodb_uri",
+    "MONGODB_DBNAME": "@sta_minicurso_mongodb_dbname"
+  }
+}
